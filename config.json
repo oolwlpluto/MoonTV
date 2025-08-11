@@ -85,9 +85,10 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "xiaomaomi": {
+    "missav": {
       "api": "https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/missav.js",
-      "name": "missav"
+      "name": "missav",
+      "detail": "https://missav.ws/"
     }
   }
 }
